@@ -5,7 +5,7 @@ De URLs de YouTube a MP3 utilizando 'yt-dlp'
 ## Instalación
 
 ```bash
-git clone https://github.com/TuUsuario/yt_mp3_CLI.git
+git clone https://github.com/CarlMacGar/yt_mp3_CLI.git
 cd yt_mp3_CLI
 
 python3 -m venv myenv
